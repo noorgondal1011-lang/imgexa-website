@@ -1,0 +1,9 @@
+{
+  "/jpg-to-png/page": "app/jpg-to-png/page.js",
+  "/page": "app/page.js",
+  "/webp-converter/page": "app/webp-converter/page.js",
+  "/image-resizer/page": "app/image-resizer/page.js",
+  "/background-remover/page": "app/background-remover/page.js",
+  "/png-to-jpg/page": "app/png-to-jpg/page.js",
+  "/icon.svg/route": "app/icon.svg/route.js"
+}
